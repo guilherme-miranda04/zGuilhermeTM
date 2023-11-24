@@ -7,7 +7,7 @@
 
 ![zGuilhermeTM GitHub stats](https://github-readme-stats.vercel.app/api?username=zGuilhermeTM&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zGuilhermeTM&layout=compact&theme=dracula)](https://github.com/zGuilhermeTM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zGuilhermeTM&layout=compact&theme=dark)](https://github.com/zGuilhermeTM/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
 

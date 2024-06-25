@@ -20,7 +20,7 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/>
 
-Estudando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia. Apaixonado por Machine Learning
+Estudando Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e por Machine Learning.
 
 Abaixo possui outras linguagens a qual já mexi um pouco:
 

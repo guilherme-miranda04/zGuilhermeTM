@@ -5,9 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mir_gui/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/zGuilhermeTM)
 
-![zGuilhermeTM GitHub stats](https://github-readme-stats.vercel.app/api?username=zGuilhermeTM&show_icons=true&theme=dark)
+![guilherme-miranda04 GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-miranda04&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zGuilhermeTM&layout=compact&theme=dark)](https://github.com/zGuilhermeTM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-miranda04&layout=compact&theme=dark)](https://github.com/guilherme-miranda04/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia
 
